@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dialog_text_title">提示</string>
+    <string name="dialog_text_message">你确定要退出58同城吗？</string>
+</resources>
